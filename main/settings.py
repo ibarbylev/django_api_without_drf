@@ -1,4 +1,5 @@
 """
+ATTENTION!!!
 Vary useful article for the topic:
 https://www.gauravvjn.com/write-json-apis-in-pure-django-for-beginners/
 """
